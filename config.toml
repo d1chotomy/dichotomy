@@ -1,0 +1,56 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Dichotomy"
+theme = "ezhil"
+paginate = 5
+
+copyright = "© Copyright Zeno of Elea, 430 B.C."
+
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "ezhil-demo"
+
+[params]
+	subtitle = "两分法"
+	disableDisqusTypes = ["page","posts"]
+	featherIconsCDN = true
+	mode = "auto" # "dark", "auto", "light"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+
+[[menu.main]]
+	name = "首页"
+	url = "/"
+	weight = 1
+
+[[menu.main]]
+	name = "所有文章"
+	url = "/posts"
+	weight = 2
+
+[[menu.main]]
+	name = "两分法悖论"
+	url = "/posts/2020-01-07-zenos-paradox"
+	weight = 3
+
+# [[menu.main]]
+# name = "Tags"
+# url = "/tags"
+# weight = 4
+
+[[params.social]]
+	name = "Github"
+	icon = "github"
+	url = "https://github.com/vividvilla/ezhil"
+
+[[params.social]]
+	name = "RSS"
+	icon = "rss"
+	url = "/index.xml"
+
+[taxonomies]
+   tag = "tags"

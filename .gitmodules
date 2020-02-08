@@ -1,0 +1,12 @@
+[submodule "themes/diary"]
+	path = themes/diary
+	url = https://github.com/AmazingRise/hugo-theme-diary.git
+[submodule "indigo"]
+	path = indigo
+	url = https://github.com/AngeloStavrow/indigo.git
+[submodule "hugo-theme-blueberry-detox"]
+	path = hugo-theme-blueberry-detox
+	url = git@github.com:allnightgrocery/hugo-theme-blueberry-detox.git
+[submodule "themes/ezhil"]
+	path = themes/ezhil
+	url = https://github.com/vividvilla/ezhil.git
