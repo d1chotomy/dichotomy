@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://d1chotomy.github.io/"
 languageCode = "en-us"
 title = "Dichotomy"
 theme = "ezhil"
@@ -45,7 +45,7 @@ disqusShortname = "ezhil-demo"
 [[params.social]]
 	name = "Github"
 	icon = "github"
-	url = "https://github.com/vividvilla/ezhil"
+	url = "https://github.com/d1chotomy/d1chotomy.github.io"
 
 [[params.social]]
 	name = "RSS"
