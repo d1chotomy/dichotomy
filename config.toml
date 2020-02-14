@@ -32,10 +32,10 @@ disqusShortname = "ezhil-demo"
 	url = "/posts"
 	weight = 2
 
-[[menu.main]]
-	name = "两分法悖论"
-	url = "/posts/2020-01-07-zenos-paradox"
-	weight = 3
+# [[menu.main]]
+# 	name = "联系方式"
+# 	url = "/contact"
+# 	weight = 3
 
 # [[menu.main]]
 # name = "Tags"
