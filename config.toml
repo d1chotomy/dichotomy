@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ezhil-demo"
 
 [params]
-	subtitle = "两分法"
+	# subtitle = ""
 	disableDisqusTypes = ["page","posts"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
@@ -42,15 +42,15 @@ disqusShortname = "ezhil-demo"
 # url = "/tags"
 # weight = 4
 
-[[params.social]]
-	name = "Github"
-	icon = "github"
-	url = "https://github.com/d1chotomy/d1chotomy.github.io"
+# [[params.social]]
+# 	name = "Github"
+# 	icon = "github"
+# 	url = "https://github.com/d1chotomy/d1chotomy.github.io"
 
-[[params.social]]
-	name = "RSS"
-	icon = "rss"
-	url = "/index.xml"
+# [[params.social]]
+# 	name = "RSS"
+# 	icon = "rss"
+# 	url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
