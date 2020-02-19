@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ezhil-demo"
 
 [params]
-	# subtitle = ""
+	subtitle = "或只言片语，或乱噏廿四。"
 	disableDisqusTypes = ["page","posts"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
